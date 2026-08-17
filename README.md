@@ -8,12 +8,14 @@ the level shows up nowhere in the system. Razer's own Synapse software is not
 available on macOS. BatteryBar reads the level directly from the mouse using
 Razer's proprietary HID protocol and keeps it in your menu bar.
 
-```
-🖱 68%
-```
+<img src="docs/menubar.png" alt="BatteryBar in the macOS menu bar" width="73">
 
 Clicking it opens a breakdown with the exact percentage, the raw 0–255 value the
 mouse reports, and charging state.
+
+<img src="docs/menu.png" alt="The BatteryBar dropdown showing battery percentage, raw value and charging state" width="342">
+
+<sub>Screenshots show sample data.</sub>
 
 ## Supported hardware
 
