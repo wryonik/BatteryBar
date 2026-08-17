@@ -1,0 +1,9 @@
+# Local agent context — not part of the project
+CLAUDE.md
+
+# Build output
+build/
+dist/
+
+# macOS
+.DS_Store
